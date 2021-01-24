@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Agglomeration Investing as Mutual Fund Manager Skill"
-authors: [Shuaiyu Chen and Zhao Jin]
+title: "Agglomeration Investing As Mutual Fund Manager Skill"
+authors: [with Zhao Jin]
 date: 2020-10-16T19:09:25-04:00
 doi: ""
-weight: 10
+weight: 30
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 

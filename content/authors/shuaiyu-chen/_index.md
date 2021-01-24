@@ -18,14 +18,15 @@ organizations:
   url: "https://simon.rochester.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Shuaiyu Chen is currently a Ph.D. candidate in Finance at the Simon Business School of the University of Rochester, under the advisories of Prof. Ron Kaniel and Prof. Alan Moreira. He expects to obtain his doctoral degree by May of 2021. His current research focuses on empirical asset pricing and delegated portfolio management. 
+bio: Shuaiyu Chen is a Ph.D. candidate in Finance at Simon Business School. His research focuses on empirical asset pricing and delegated portfolio management. 
 
 
 interests:
-- Empirical Asset Pricing
-- Institutional Investors
-#- Mutual Funds and Hedge Funds
-- Real Effects of Financial Markets
+- Empirical asset pricing
+- Institutional investors
+- Short selling and securities lending
+- Real effects of financial markets
+
 
 education:
   courses:
@@ -72,4 +73,4 @@ user_groups:
 # - Visitors
 ---
 
-I am a Ph.D. candidate in Finance at Simon Business School, University of Rochester. I'm currently on the job market. My research focuses on empirical asset pricing and delegated portfolio management.
+I am a Ph.D. candidate in Finance at Simon Business School. My research focuses on empirical asset pricing and delegated portfolio management.

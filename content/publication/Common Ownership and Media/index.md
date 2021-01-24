@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Do Institutional Investors Affect Media Coverage? The Role of Common Ownership "
-authors: [Shuaiyu Chen, Yucheng (John) Yang, and Zhao Jin]
+authors: [with Yucheng (John) Yang and Zhao Jin]
 date: 2020-09-20T19:15:13-04:00
 doi: ""
 weight: 20

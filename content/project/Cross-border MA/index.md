@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "What do managers learn from stock prices? Evidence from cross-border mergers and acquisitions"
-authors: [Shuaiyu Chen and John Yang]
+title: "What Do Managers Learn From Stock Prices? Evidence From Cross-border Mergers and Acquisitions"
+authors: [with Yucheng (John) Yang]
 date: 2020-10-16T19:09:25-04:00
 doi: ""
 weight: 20
